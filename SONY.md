@@ -7,6 +7,44 @@ Not complete yet. Such a huge company!
 - Google Search 
 - Google Dorks
 
+### Acquisitions
+```
+theorchard.com
+altair-semi.com
+gracenote.com
+gaikai.com 
+sonypictures.com 
+snsystems.com
+sonybiotechnology.com
+qrio.me
+convergent.com
+insightness.com
+nevion.com
+littlebigplanet.com
+aiwa.co
+insomniac.games
+sonymusicpub.com/en 
+housemarque.com 
+bluepointgames.com
+firesprite.com
+nixxes.com
+http://valkyrie-entertainment.com (to be verfied)
+teroasia.com (to be verfied)
+vevo.com 
+crunchyroll.com  accessible with Japan ASN range 
+somethinelse.com  
+awal.com  
+nurulize.com  → cname → sonyinnovationstudios.com  
+awal.com 
+midokura.com 
+tensportstv.com
+guerrilla-games.com
+naughtydog.com 
+bendstudio.com 
+sgpgrid.com 
+```
+
+
 ```
 sony.jp
 sony.fr
