@@ -26,7 +26,7 @@ novininvest.ir
 ```
 
 ### Extra
-Aim here was to find as many domain as possible but if any juicy subdomains were found on certificate consider them.
+Aim here was to find as many domain as possible but if any juicy subdomains were found on certificates consider them.
 ```
 admin.snappfood.biz
 api.snappfood.biz
@@ -38,5 +38,6 @@ staging-admin.snappfood.biz
 staging-api.snappfood.biz 
 staging.snappfood.biz
 www.snappfood.biz
+dev.snapp.doctor
 ```
 
