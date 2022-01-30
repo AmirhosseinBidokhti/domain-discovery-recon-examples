@@ -23,6 +23,7 @@ taxiyaab.ir
 snapproom.com
 snappbourse.com
 novininvest.ir
+snapp.cab
 ```
 
 ### Extra
