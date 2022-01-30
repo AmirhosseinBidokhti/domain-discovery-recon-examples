@@ -27,6 +27,7 @@ novininvest.ir
 
 ### Extra
 Aim here was to find as many domain as possible but if any juicy subdomains were found on certificates consider them.
+<br/>
 Even though in our dedicated subdomain enumeration recon, they will likely be found.
 ```
 admin.snappfood.biz
