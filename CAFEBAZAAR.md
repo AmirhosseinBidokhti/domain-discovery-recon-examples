@@ -1,5 +1,5 @@
 
-# snapp.ir
+# cafebazaar.ir
 ### Techniques
 - Certificate (CN, Subject Alternative Name)
 - Reverse Whois on IP/Domain Properties
