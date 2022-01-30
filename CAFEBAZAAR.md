@@ -9,6 +9,7 @@
 
 
 Exact Flow
+
 CafeBazaar -> Whois -> Avaye-Hamrahe-Hooshmand-e-Hezardastan/hezardastandomains@gmail.com → Reverese Whois
 ```
 cafebazaar.ir
