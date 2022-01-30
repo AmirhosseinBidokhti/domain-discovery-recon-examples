@@ -50,8 +50,8 @@ walmartgift.com
 wmstores-1.custhelp.com
 ```
 
-### Unverfied Domain
-Walmart.com -> Whois -> Properties -> Reverese Whois
+### Domains
+- Unverfied
 ```
 walmart.com	
 samsclub.com	
