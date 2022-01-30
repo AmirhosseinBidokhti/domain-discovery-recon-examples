@@ -26,6 +26,14 @@ novininvest.ir
 snapp.cab
 ```
 
+### Censys searching on cert properties
+- Extract the useful properties off the certificates (SAN, CN, Issuer: O, ...)
+- Search on censys,crt.sh databases 
+- If lucky new domains having the same property values will show up.
+```
+```
+
+
 ### Extra
 Aim here was to find as many domain as possible but if any juicy subdomains were found on certificates consider them.
 <br/>
