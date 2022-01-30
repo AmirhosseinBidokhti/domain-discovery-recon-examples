@@ -4,3 +4,11 @@ Discovering the domain of the following companies
 * snapp.ir
 * Sony
 * Walmart
+
+### Techniques
+- Certificate (CN, Subject Alternative Name)
+- Reverse Whois on IP/Domain Properties
+- Acquisition Search
+- Google Search 
+- Google Dorks
+- 
