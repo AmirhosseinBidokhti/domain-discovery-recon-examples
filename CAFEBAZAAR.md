@@ -29,7 +29,7 @@ karnameh.com
 sotoon.ir
 ```
 
-### Others
+### Others (with google search, Certificates)
 ```
 karname.ir (cname -> karnameh.com)
 karname.com (cname -> karnameh.com)
