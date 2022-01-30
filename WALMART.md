@@ -1,4 +1,4 @@
-## Sony 
+## Walmart 
 In progress...
 ### Techniques 
 - Reverse Whois on IP/Domain Properties
