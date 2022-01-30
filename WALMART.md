@@ -2,6 +2,7 @@
 In progress...
 ### Techniques 
 - Reverse Whois on IP/Domain Properties
+- Certificate Search
 - Acquisition Search
 - Google Search 
 - Google Dorks
