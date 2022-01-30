@@ -37,7 +37,6 @@ snappfood.biz
 staging-admin.snappfood.biz
 staging-api.snappfood.biz 
 staging.snappfood.biz
-www.snappfood.biz
 dev.snapp.doctor
 ```
 
